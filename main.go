@@ -16,6 +16,6 @@ func main() {
 	arr[2] = 1
 	arr[3] = 0
 	arr[4] = 3
-	fmt.Println("IsUgly: ",LeetCode.IsUgly(2))
+	fmt.Println("ReverseVowels: ",LeetCode.ReverseVowels("leetcode"))
 }
 

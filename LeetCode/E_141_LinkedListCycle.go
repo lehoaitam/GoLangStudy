@@ -21,4 +21,5 @@ func HasCycle(head *ListNode) bool{
 		}
 		fastCursor = fastCursor.Next
 	}
+	return true
 }
