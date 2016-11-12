@@ -1,48 +1,48 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;LeetCode&gt;">
     <CLASSES>
-      <root url="file://$USER_HOME$/Work/src/AnimatedGifDemo" />
-      <root url="file://$USER_HOME$/Work/src/Test" />
-      <root url="file://$USER_HOME$/Work/src/github.com" />
-      <root url="file://$USER_HOME$/Work/src/FetchURL" />
-      <root url="file://$USER_HOME$/Work/src/FetchURLConcurence" />
-      <root url="file://$USER_HOME$/Work/src/golang.org" />
-      <root url="file://$USER_HOME$/Work/src/WebServer" />
-      <root url="file://$USER_HOME$/Work/src/AnimatedGifPackage" />
-      <root url="file://$USER_HOME$/Work/src/foodspot" />
-      <root url="file://$USER_HOME$/Work/src/.idea" />
-      <root url="file://$USER_HOME$/Work/src/bigDigit" />
-      <root url="file://$USER_HOME$/Work/src/gowebapp-master" />
-      <root url="file://$USER_HOME$/Work/src/TestBeego" />
-      <root url="file://$USER_HOME$/Work/src/ufood2" />
-      <root url="file://$USER_HOME$/Work/src/tags2uml" />
-      <root url="file://$USER_HOME$/Work/src/StackDemo" />
-      <root url="file://$USER_HOME$/Work/src/gopkg.in" />
-      <root url="file://$USER_HOME$/Work/src/StackPackage" />
+      <root url="file://$PROJECT_DIR$/../AnimatedGifDemo" />
+      <root url="file://$PROJECT_DIR$/../Test" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../FetchURL" />
+      <root url="file://$PROJECT_DIR$/../FetchURLConcurence" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../WebServer" />
+      <root url="file://$PROJECT_DIR$/../AnimatedGifPackage" />
+      <root url="file://$PROJECT_DIR$/../foodspot" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../bigDigit" />
+      <root url="file://$PROJECT_DIR$/../gowebapp-master" />
+      <root url="file://$PROJECT_DIR$/../TestBeego" />
+      <root url="file://$PROJECT_DIR$/../ufood2" />
+      <root url="file://$PROJECT_DIR$/../tags2uml" />
+      <root url="file://$PROJECT_DIR$/../StackDemo" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../StackPackage" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="file://$USER_HOME$/Work/src/AnimatedGifDemo" />
-      <root url="file://$USER_HOME$/Work/src/Test" />
-      <root url="file://$USER_HOME$/Work/src/github.com" />
-      <root url="file://$USER_HOME$/Work/src/FetchURL" />
-      <root url="file://$USER_HOME$/Work/src/FetchURLConcurence" />
-      <root url="file://$USER_HOME$/Work/src/golang.org" />
-      <root url="file://$USER_HOME$/Work/src/WebServer" />
-      <root url="file://$USER_HOME$/Work/src/AnimatedGifPackage" />
-      <root url="file://$USER_HOME$/Work/src/foodspot" />
-      <root url="file://$USER_HOME$/Work/src/.idea" />
-      <root url="file://$USER_HOME$/Work/src/bigDigit" />
-      <root url="file://$USER_HOME$/Work/src/gowebapp-master" />
-      <root url="file://$USER_HOME$/Work/src/TestBeego" />
-      <root url="file://$USER_HOME$/Work/src/ufood2" />
-      <root url="file://$USER_HOME$/Work/src/tags2uml" />
-      <root url="file://$USER_HOME$/Work/src/StackDemo" />
-      <root url="file://$USER_HOME$/Work/src/gopkg.in" />
-      <root url="file://$USER_HOME$/Work/src/StackPackage" />
+      <root url="file://$PROJECT_DIR$/../AnimatedGifDemo" />
+      <root url="file://$PROJECT_DIR$/../Test" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../FetchURL" />
+      <root url="file://$PROJECT_DIR$/../FetchURLConcurence" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../WebServer" />
+      <root url="file://$PROJECT_DIR$/../AnimatedGifPackage" />
+      <root url="file://$PROJECT_DIR$/../foodspot" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../bigDigit" />
+      <root url="file://$PROJECT_DIR$/../gowebapp-master" />
+      <root url="file://$PROJECT_DIR$/../TestBeego" />
+      <root url="file://$PROJECT_DIR$/../ufood2" />
+      <root url="file://$PROJECT_DIR$/../tags2uml" />
+      <root url="file://$PROJECT_DIR$/../StackDemo" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../StackPackage" />
     </SOURCES>
     <excluded>
-      <root url="file://$PROJECT_DIR$/LeetCode" />
+      <root url="file://$PROJECT_DIR$/Algorithm" />
       <root url="file://$PROJECT_DIR$" />
     </excluded>
   </library>

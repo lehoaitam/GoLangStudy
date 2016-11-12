@@ -7,7 +7,7 @@ import (
 
 	//"GoLangStudy/HackerRank"
 	//"go/types"
-	"GoLangStudy/LeetCode"
+	"GoLangStudy/Algorithm"
 )
 
 func main() {
