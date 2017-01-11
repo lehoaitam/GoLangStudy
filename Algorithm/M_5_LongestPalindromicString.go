@@ -2,6 +2,7 @@ package LeetCode
 
 
 func LongestPalindromicString(s string) string{
+	i create some error and commit!
 	if s == "" || len(s) < 2{
 		return s
 	}
