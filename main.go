@@ -7,12 +7,13 @@ import (
 
 	//"GoLangStudy/HackerRank"
 	//"go/types"
+	//"GoLangStudy/Algorithm"
 	"GoLangStudy/Algorithm"
 )
 
 func main() {
 	//var n int64 = 10
-	//fmt.Printf("number of bit 1 of %d : %d", n, LeetCode.HammingWeight(n))
+	fmt.Printf("number of bit 1 of ")
 	//fmt.Println("Anagram: ",LeetCode.IsAnagram("anagram","anmgraa"))
 	var arr []int
 	arr = make([]int, 2)
@@ -51,6 +52,6 @@ func main() {
 	//	fmt.Println("nil")
 	//}
 	//Hackeank.Main5()
-	//fmt.Println(LeetCode.MaxArea(arr))
+	fmt.Println(LeetCode.IsHappyNumber(1234))
 }
 

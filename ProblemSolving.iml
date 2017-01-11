@@ -3,9 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Go 1.6.3" jdkType="Go SDK" />
+    <orderEntry type="jdk" jdkName="Go 1.7.3" jdkType="Go SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="GOPATH &lt;Study&gt;" level="project" />
     <orderEntry type="library" name="GOPATH &lt;GoLangStudy&gt;" level="project" />
+    <orderEntry type="library" name="GOPATH &lt;ProblemSolving&gt;" level="project" />
   </component>
 </module>
